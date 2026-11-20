@@ -1,4 +1,3 @@
-# Hope-Clinic-AI-Assistant
 # Hope Health Clinic AI Assistant
 
 ## Setup
